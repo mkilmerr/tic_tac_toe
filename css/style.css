@@ -1,0 +1,32 @@
+#btlink{
+  width: 300px;
+  margin-left: -90px;
+
+}
+.escopo{
+  margin-left: 500px;
+  margin-top: -123px;
+}
+#texto-div{
+  margin-left: -40px;
+  margin-bottom: 100px;
+
+}
+#foto{
+  margin-right: 100px;
+  margin-top: 12px;
+}
+#texto1{
+  color: red;
+  float: left;
+}
+#texto2{
+  color: blue;
+  float: left;
+}
+#texto3{
+  color: green;
+}
+#txt-latim{
+  color: green;
+}
